@@ -1,2 +1,2 @@
 # git
-git
+ini namenye git ye
